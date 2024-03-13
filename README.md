@@ -2,7 +2,7 @@
 
 This project utilizes Streamlit, Google's GenerativeAI API, and SQLite to create a web application that can retrieve SQL queries based on user input questions.
 
-## Setup
+# Setup
 
 # 1. Clone the Repository
 
@@ -10,7 +10,7 @@ This project utilizes Streamlit, Google's GenerativeAI API, and SQLite to create
 git clone https://github.com/sona3ms/Gemini_pro.git
 cd Gemini_pro
 
-# 2. Install Dependencies
+$# 2. Install Dependencies
 
 pip install -r requirements.txt
 
